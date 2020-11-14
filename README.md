@@ -1,2 +1,1 @@
-# QL-Server-Settings
-euroQuake Quake Live Server Settings
+# euroQuake Quake Live Server Settings, Factories, Mappools, Workshop
